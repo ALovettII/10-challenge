@@ -12,7 +12,7 @@
 
 
 ## Installation Guide
-Using the Conda package manager: [GitHub](https://github.com/ALovettII/10-challenge.git)
+Using the Conda package manager: [My GitHub Project](https://github.com/ALovettII/10-challenge.git)
 
 You will also the following libraries:
 ```
@@ -37,7 +37,11 @@ Running this program will allow the following:
 * Cluster the Cryptocurrencies with K-means Using the PCA Data
 * Visualize and Compare the Results
 
+The program should yield such results as:
+![Elbow Chart Comparison](https://github.com/ALovettII/10-challenge/blob/main/Resources/k-value_elbow.png)
+![Clustering into Segments Comparison](https://github.com/ALovettII/10-challenge/blob/main/Resources/segment_scatter.png)
 
+By changing the imported CSV you will be able to run this analysis on other data sets.
 
 ## Contributors
 Created by Arthur Lovett
